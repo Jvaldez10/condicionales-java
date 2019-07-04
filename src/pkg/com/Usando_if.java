@@ -11,6 +11,7 @@ public class Usando_if {
 		if (a<b) {
 			System.out.println("el valor de a:["+a+"] es menor que el valor de b ["+b+"]");
 	System.out.println();
+	
 		}
 	}
 
